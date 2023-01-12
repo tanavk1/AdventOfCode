@@ -1,0 +1,1 @@
+This is a Java solution for the day 1 Advent of Code problem. 
